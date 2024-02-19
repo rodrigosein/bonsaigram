@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bonsaigram</title>
+    <link rel="stylesheet" href="./css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bonsaigram</h1>
+        <p>Olá, conheça os bonsai e suas características de cada bonsaísta.</p>
+    </header>
+    <main>
+        <div class="grid-container">
+            <div class="grid-item" onclick="redirectToProfilePage()">
+                <p>Rodrigo Souza</p>
+                <img src="./images/RodrigoS.jpg"  alt="Profile Picture">
+            </div>
+            <div class="grid-item" onclick="redirectToProfilePage2()">
+                <p>Rodrigo Vilela</p>
+                <img src="./images/RodrigoV.jpg" alt="Profile Picture">
+            </div>
+
+            <div class="grid-item" onclick="redirectToProfilePage3()">
+                <p>Rômulo F. Vilela </p>
+                <img src="./images/RomuloFV.jpg" alt="Profile Picture">
+            </div>
+
+            <div class="grid-item" onclick="redirectToProfilePage4()">
+                <p>Rômulo Vilela</p>
+                <img src="./images/RomuloV.jpg" alt="Profile Picture">
+            </div>
+
+            <!-- Adicione mais grid-items conforme necessário -->
+        </div>
+    </main>
+    <script src="./js/javascript.js"></script>
+</body>
+</html>
