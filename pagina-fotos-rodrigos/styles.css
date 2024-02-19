@@ -93,6 +93,11 @@ nav ul li a:hover {
     margin: 0;
 }
 
+.descricao p {
+    margin: 0;
+    margin-left: 20px;
+}
+
 .slideshow-container {
     max-width: 800px;
     position: relative;
