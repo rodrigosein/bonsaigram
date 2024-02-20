@@ -23,6 +23,14 @@ function redirectToFotos02RodrigoS() {
     window.location.href = "../pagina-fotos-rodrigos/buganvile.html";
 }
 
+function redirectToFotos03RodrigoS() {
+    window.location.href = "../pagina-fotos-rodrigos/buganvile2.html";
+}
+
+function redirectToFotos04RodrigoS() {
+    window.location.href = "../pagina-fotos-rodrigos/jabuticabeira.html";
+}
+
 let slideIndex = 0;
 showSlides();
 
