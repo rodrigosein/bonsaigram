@@ -14,6 +14,7 @@ function redirectToProfilePage4() {
     window.location.href = "./pagina-romulov/index.html";
 }
 
+//Fotos Rodrigo Souza
 
 function redirectToFotos01RodrigoS() {
     window.location.href = "../pagina-fotos-rodrigos/caliandra.html";
@@ -30,6 +31,25 @@ function redirectToFotos03RodrigoS() {
 function redirectToFotos04RodrigoS() {
     window.location.href = "../pagina-fotos-rodrigos/jabuticabeira.html";
 }
+
+//Fotos Rodrigo Vilela
+
+function redirectToFotos01RodrigoV() {
+    window.location.href = "../pagina-fotos-rodrigos/caliandra.html";
+}
+
+function redirectToFotos02RodrigoV() {
+    window.location.href = "../pagina-fotos-rodrigos/buganvile.html";
+}
+
+function redirectToFotos03RodrigoV() {
+    window.location.href = "../pagina-fotos-rodrigos/buganvile2.html";
+}
+
+function redirectToFotos04RodrigoV() {
+    window.location.href = "../pagina-fotos-rodrigos/jabuticabeira.html";
+}
+
 
 let slideIndex = 0;
 showSlides();
