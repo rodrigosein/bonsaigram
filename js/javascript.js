@@ -35,7 +35,7 @@ function redirectToFotos04RodrigoS() {
 //Fotos Rodrigo Vilela
 
 function redirectToFotos01RodrigoV() {
-    window.location.href = "../pagina-fotos-rodrigos/caliandra.html";
+    window.location.href = "../pagina-fotos-rodrigov/buganvile.html";
 }
 
 function redirectToFotos02RodrigoV() {
