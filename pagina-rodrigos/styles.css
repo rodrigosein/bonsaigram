@@ -60,11 +60,17 @@ nav ul li a:hover {
     padding: 10px;
 }
 
-
 .profile-info {
     display: flex;
     align-items: center;
     padding: 20px;
+}
+
+.profile-info a {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    color: #333;
 }
 
 .profile-circle {
@@ -82,5 +88,6 @@ nav ul li a:hover {
 }
 
 .profile-name h4 {
+    text-decoration: none;
     margin: 0;
 }
