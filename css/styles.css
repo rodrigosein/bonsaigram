@@ -46,8 +46,8 @@ nav ul li a:hover {
 }
 
 .grid-item {
-    width: 148px;
-    height: 154px;
+  /*width: 148px;
+    height: 154px;*/
     border-radius: 10px;
     overflow: hidden;
     border: 1px solid #ddd;
