@@ -14,8 +14,7 @@ function redirectToProfilePage4() {
     window.location.href = "./pagina-romulov/index.html";
 }
 
-//Fotos Rodrigo Souza
-
+//fotos Rodrigo Souza
 function redirectToFotos01RodrigoS() {
     window.location.href = "../pagina-fotos-rodrigos/caliandra.html";
 }
@@ -39,15 +38,51 @@ function redirectToFotos01RodrigoV() {
 }
 
 function redirectToFotos02RodrigoV() {
-    window.location.href = "../pagina-fotos-rodrigos/buganvile.html";
+    window.location.href = "../pagina-fotos-rodrigov/siriguela.html";
 }
 
 function redirectToFotos03RodrigoV() {
-    window.location.href = "../pagina-fotos-rodrigos/buganvile2.html";
+    window.location.href = "../pagina-fotos-rodrigov/pitangueira.html";
 }
 
 function redirectToFotos04RodrigoV() {
-    window.location.href = "../pagina-fotos-rodrigos/jabuticabeira.html";
+    window.location.href = "../pagina-fotos-rodrigov/carmonaCarol.html";
+}
+
+function redirectToFotos05RodrigoV() {
+    window.location.href = "../pagina-fotos-rodrigov/pitecoAdulto.html";
+}
+
+function redirectToFotos06RodrigoV() {
+    window.location.href = "../pagina-fotos-rodrigov/caliandraSpinosa.html";
+}
+
+function redirectToFotos07RodrigoV() {
+    window.location.href = "../pagina-fotos-rodrigov/ulmus.html";
+}
+
+function redirectToFotos08RodrigoV() {
+    window.location.href = "../pagina-fotos-rodrigov/pitecoJovem.html";
+}
+
+function redirectToFotos09RodrigoV() {
+    window.location.href = "../pagina-fotos-rodrigov/pitangueiraPre.html";
+}
+
+function redirectToFotos010RodrigoV() {
+    window.location.href = "../pagina-fotos-rodrigov/serissa.html";
+}
+
+function redirectToFotos011RodrigoV() {
+    window.location.href = "../pagina-fotos-rodrigov/aroeiraYamadori01.html";
+}
+
+function redirectToFotos012RodrigoV() {
+    window.location.href = "../pagina-fotos-rodrigov/aroeiraYamadori02.html";
+}
+
+function redirectToFotos013RodrigoV() {
+    window.location.href = "../pagina-fotos-rodrigov/serissaChinesa.html";
 }
 
 
