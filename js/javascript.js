@@ -85,6 +85,18 @@ function redirectToFotos013RodrigoV() {
     window.location.href = "../pagina-fotos-rodrigov/serissaChinesa.html";
 }
 
+function redirectToFotos014RodrigoV() {
+    window.location.href = "../pagina-fotos-rodrigov/carmona.html";
+}
+
+function redirectToFotos015RodrigoV() {
+    window.location.href = "../pagina-fotos-rodrigov/estaquiaTeste.html";
+}
+
+function redirectToFotos016RodrigoV() {
+    window.location.href = "../pagina-fotos-rodrigov/pitecoJovem2.html";
+}
+
 
 let slideIndex = 0;
 showSlides();
