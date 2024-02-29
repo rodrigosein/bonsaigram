@@ -31,6 +31,13 @@ function redirectToFotos04RodrigoS() {
     window.location.href = "../pagina-fotos-rodrigos/jabuticabeira.html";
 }
 
+//fotos Romulo F Vilela
+function redirectToFotos01RomuloFV() {
+    window.location.href = "../pagina-fotos-romulofv/caliandra.html";
+}
+
+
+
 //Fotos Rodrigo Vilela
 
 function redirectToFotos01RodrigoV() {
