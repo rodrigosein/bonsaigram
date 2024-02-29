@@ -36,6 +36,30 @@ function redirectToFotos01RomuloFV() {
     window.location.href = "../pagina-fotos-romulofv/caliandra.html";
 }
 
+function redirectToFotos02RomuloFV() {
+    window.location.href = "../pagina-fotos-romulofv/piteco.html";
+}
+
+function redirectToFotos03RomuloFV() {
+    window.location.href = "../pagina-fotos-romulofv/lingustto.html";
+}
+
+function redirectToFotos04RomuloFV() {
+    window.location.href = "../pagina-fotos-romulofv/bouganville.html";
+}
+
+function redirectToFotos05RomuloFV() {
+    window.location.href = "../pagina-fotos-romulofv/acerola.html";
+}
+
+function redirectToFotos06RomuloFV() {
+    window.location.href = "../pagina-fotos-romulofv/ficus.html";
+}
+
+function redirectToFotos07RomuloFV() {
+    window.location.href = "../pagina-fotos-romulofv/jabuticabeira.html";
+}
+
 
 
 //Fotos Rodrigo Vilela
